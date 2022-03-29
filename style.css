@@ -1,19 +1,18 @@
-body{
-    background-color:white;
-}
-
 h1{
     color:blue;
-
+    font-size: 35px;
+    text-align:center;
 }
 
 h2{
     color:red;
-
+    font-size: 20px;
+    text-align:center;
 }
+
 
 p{
     color:red;
-
+    font-size: 20px;
+    text-align:center;
 }
-
